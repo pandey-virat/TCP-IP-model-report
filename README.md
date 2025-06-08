@@ -42,7 +42,7 @@ This document was prepared to:
 
 ## 🔗 Related Work
 
-- [OSI Model Report Repository](https://github.com/yourusername/osi-model-report) *(Replace with actual link if available)*
+- [OSI Model Report Repository]([https://github.com/yourusername/osi-model-report](https://github.com/pandey-virat/osi-model-rnd-report))
 
 ---
 
